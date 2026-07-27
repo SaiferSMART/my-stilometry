@@ -1,6 +1,6 @@
 # Публикация на GitHub
 
-Репозиторий: **https://github.com/mashajetruj-sketch/stilometry**
+Репозиторий: **https://github.com/samsebeingener/stilometry**
 
 ## Перед push
 
@@ -15,14 +15,14 @@ git add .
 git status   # проверьте список файлов
 git commit -m "Initial public release: Stilometry Cursor plugin v0.2.0"
 git branch -M main
-git remote add origin https://github.com/mashajetruj-sketch/stilometry.git
+git remote add origin https://github.com/samsebeingener/stilometry.git
 git push -u origin main
 ```
 
 Если remote уже есть с другим URL:
 
 ```powershell
-git remote set-url origin https://github.com/mashajetruj-sketch/stilometry.git
+git remote set-url origin https://github.com/samsebeingener/stilometry.git
 git push -u origin main
 ```
 

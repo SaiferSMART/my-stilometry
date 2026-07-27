@@ -1,6 +1,6 @@
 # Stilometry
 
-![Stilometry — лингвистический отпечаток автора](https://raw.githubusercontent.com/mashajetruj-sketch/stilometry/main/docs/assets/github-cover.png)
+![Stilometry — лингвистический отпечаток автора](https://raw.githubusercontent.com/samsebeingener/stilometry/main/docs/assets/github-cover.png)
 
 **Stilometry** — project-local [Cursor](https://cursor.com) plugin для построения **лингвистического отпечатка** русскоязычного автора: 28 стилометрических метрик, LLM-интерпретация с цитатами, черновик профиля, approve/revise, гипотезы о языковых осях и промпт для имитации стиля без нейрослопа.
 
@@ -20,7 +20,7 @@
 ### 1. Установка
 
 ```powershell
-git clone https://github.com/mashajetruj-sketch/stilometry.git
+git clone https://github.com/samsebeingener/stilometry.git
 cd stilometry
 pip install -e .
 python stilometry.py install-models
